@@ -6,10 +6,10 @@ echo '---------------开始自动部署---------------'
 ROOT_PATH=$(cd $(dirname $0);cd .; pwd)
 
 # 项目名称
-PROJECT_NAME=ChatGPT
+PROJECT_NAME=chatgpt
 
 # LINUX部署目录
-DEPLOY_PATH=root/ChatGPT
+DEPLOY_PATH=root/chatgpt
 
 # 服务器地址
 SERVER_IP=xxx.xx.xx.xx
