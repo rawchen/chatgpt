@@ -9,7 +9,7 @@ ROOT_PATH=$(cd $(dirname $0);cd .; pwd)
 PROJECT_NAME=chatgpt
 
 # LINUX部署目录
-DEPLOY_PATH=root/chatgpt
+DEPLOY_PATH=root/${PROJECT_NAME}
 
 # 服务器地址
 SERVER_IP=xxx.xx.xx.xx
