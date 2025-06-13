@@ -2,7 +2,7 @@
 
 ## 服务在线使用及开发环境
 
-> https://chat.rawchen.com
+> https://gpt.rawchen.com
 >
 > JDK 8 + IDEA 2023.2
 

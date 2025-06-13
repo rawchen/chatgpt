@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rawchen</groupId>
-	<artifactId>ChatGPT</artifactId>
+	<artifactId>chatgpt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>ChatGPT</name>
-	<description>ChatGPT</description>
+	<name>chatgpt</name>
+	<description>chatgpt</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
