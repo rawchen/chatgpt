@@ -75,7 +75,7 @@ public class OpenAiController {
         messages.add(message);
         param.put("messages", messages);
 //        param.put("model", "gpt-3.5-turbo");
-        param.put("model", "gpt-4-turbo");
+        param.put("model", "gpt-4o-mini");
         param.put("stream", false);
         JSONObject paramJson = new JSONObject(param);
         String body = HttpRequest.post(chatUrl)
